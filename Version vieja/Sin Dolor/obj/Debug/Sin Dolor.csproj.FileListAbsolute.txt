@@ -1,0 +1,48 @@
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\Sin Dolor.exe.config
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\Sin Dolor.exe
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\Sin Dolor.pdb
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.AgregarPaciente.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.Properties.Resources.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin Dolor.csproj.GenerateResource.cache
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin Dolor.csproj.CoreCompileInputs.cache
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin Dolor.exe
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin Dolor.pdb
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.AgregarProducto.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.MostrarPacientes.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.MostrarProductos.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\Google.Protobuf.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\MySql.Data.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\MySqlConnector.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Buffers.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Memory.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\ZstdNet.dll
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\Google.Protobuf.pdb
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\Google.Protobuf.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\MySql.Data.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\MySqlConnector.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Buffers.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Memory.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.Formas.ImagenProducto.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.Formas.EditarProducto.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin Dolor.csproj.AssemblyReference.cache
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.Formas.EditarPaciente.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.Formas.AgregarConsulta.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.Formas.Buscador.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.Formas.Inicio.resources
+C:\Users\GabsPC\Documents\residencias-programas\Sin Dolor\Sin Dolor\obj\Debug\Sin_Dolor.Formas.MostrarConsulta.resources

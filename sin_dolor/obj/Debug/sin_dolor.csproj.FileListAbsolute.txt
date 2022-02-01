@@ -1,0 +1,132 @@
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\bin\Debug\sin_dolor.exe.config
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\bin\Debug\sin_dolor.exe
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\bin\Debug\sin_dolor.pdb
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\obj\Debug\sin_dolor.csproj.AssemblyReference.cache
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\obj\Debug\sin_dolor.Form1.resources
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\obj\Debug\sin_dolor.Properties.Resources.resources
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\obj\Debug\sin_dolor.csproj.GenerateResource.cache
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\obj\Debug\sin_dolor.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\obj\Debug\sin_dolor.exe
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\obj\Debug\sin_dolor.pdb
+C:\Users\Jaime\Desktop\sin_dolor\sin_dolor\obj\Debug\sin_dolor.Frm_Registrar.resources
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\sin_dolor.exe.config
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\sin_dolor.exe
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\sin_dolor.pdb
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_Registrar.resources
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Form1.resources
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Properties.Resources.resources
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.GenerateResource.cache
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.CoreCompileInputs.cache
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.exe
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.pdb
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_AgregarPaciente.resources
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_MostrarPaciente.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.AssemblyReference.cache
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_agregar_producto.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_Registrar.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_AgregarPaciente.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_MostrarPaciente.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Form1.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Properties.Resources.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.GenerateResource.cache
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.exe
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.pdb
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\sin_dolor.exe.config
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\sin_dolor.exe
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\sin_dolor.pdb
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_agregar_producto.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\Google.Protobuf.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\MySql.Data.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Buffers.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Memory.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\ZstdNet.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\Google.Protobuf.pdb
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\Google.Protobuf.xml
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\MySql.Data.xml
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Buffers.xml
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Memory.xml
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_inv_agregar.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.CopyComplete
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\sin_dolor.exe.config
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\sin_dolor.exe
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\sin_dolor.pdb
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.AssemblyReference.cache
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_agregar_producto.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_Registrar.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_inv_mostrar.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_AgregarPaciente.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_MostrarPaciente.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Form1.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Properties.Resources.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.GenerateResource.cache
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.CoreCompileInputs.cache
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.exe
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.pdb
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\Google.Protobuf.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\MySql.Data.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Buffers.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Memory.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\ZstdNet.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\Google.Protobuf.pdb
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\Google.Protobuf.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\MySql.Data.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Buffers.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Memory.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_inv_agregar.resources
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_inv_mostrar.resources
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\itextsharp.dll
+C:\Users\DNS-SERVER\Desktop\carpeta U\gitHub\Sin_Dolor\sin_dolor\bin\Debug\itextsharp.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\itextsharp.dll
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\bin\Debug\itextsharp.xml
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.csproj.AssemblyReference.cache
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_ModificarPaciente.resources
+C:\Users\GabsPC\Documents\GitHub\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Pacientes.Frm_DataGridPacientes.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\Google.Protobuf.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\itextsharp.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\MySql.Data.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\System.Buffers.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\System.Memory.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\ZstdNet.dll
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\Google.Protobuf.pdb
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\Google.Protobuf.xml
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\itextsharp.xml
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\MySql.Data.xml
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\System.Buffers.xml
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\System.Memory.xml
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_Mostrar.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_inv_agregar.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_inv_mostrar.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Pacientes.Frm_DataGridPacientes.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Frm_ModificarPaciente.resources
+C:\Users\Jaime\Desktop\Git_hub_sindolor\Sin_Dolor\sin_dolor\obj\Debug\sin_dolor.Inventario.Frm_modificar_inv.resources
