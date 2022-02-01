@@ -63,11 +63,11 @@ namespace sin_dolor
             if (txtNombreProd.Text.Length > 1 )
             {
                 new Cls_Inventario().Registrar_Producto(txtNombreProd.Text, txtDescripcion.Text, txtPrecio.Text, txtCantidad.Text,rutaresul,txtCodigo.Text);
-                txtCodigo.Clear();
-                txtNombreProd.Clear();
-                txtDescripcion.Clear();
-                txtPrecio.Clear();
-                txtCantidad.Clear();
+                txtCodigo.Text = "";
+                txtNombreProd.Text="";
+                txtDescripcion.Text="";
+                txtPrecio.Text="";
+                txtCantidad.Text="";
                 ptbImagen.Image = null;
             }
         }
@@ -76,12 +76,12 @@ namespace sin_dolor
             if (new Cls_Inventario().Verificar_Codigo(txtCodigo.Text, txtNombreProd, txtDescripcion, txtPrecio, txtCantidad, ptbImagen) == true)
             {
                 BtnFinRegistro.Visible = false;
-                btnActualizar.Visible = true;
+                btnActualiza.Visible = true;
             }
             else
             {
                 BtnFinRegistro.Visible = true;
-                btnActualizar.Visible = false;
+                btnActualiza.Visible = false;
             }
         }
         private void btnActualizar_Click(object sender, EventArgs e)
@@ -94,7 +94,15 @@ namespace sin_dolor
 
         private void Frm_inv_modificar_Load(object sender, EventArgs e)
         {
+            btnActualiza.Visible = false;
+        }
 
+        private void txtCodigo_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
         }
     }
 }

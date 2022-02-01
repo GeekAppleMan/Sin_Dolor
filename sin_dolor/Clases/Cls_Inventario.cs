@@ -1,4 +1,5 @@
 ﻿using MySql.Data.MySqlClient;
+using sin_dolor.RJContols;
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -31,7 +32,7 @@ namespace sin_dolor
 
             }
         }
-        public bool Verificar_Codigo (string codig,TextBox nombre , TextBox descripcion, TextBox precio, TextBox cantidad, PictureBox imagen)
+        public bool Verificar_Codigo (string codig,RJTextBox nombre , RJTextBox descripcion, RJTextBox precio, RJTextBox cantidad, PictureBox imagen)
         {
             bool verificar = false;
             try

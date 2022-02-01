@@ -100,9 +100,11 @@ namespace sin_dolor
             }
         }
 
-        private void dgvInventario_CellClick(object sender, DataGridViewCellEventArgs e)
+        
+
+        private void dgvInventario_CellClick_1(object sender, DataGridViewCellEventArgs e)
         {
-            if (e.ColumnIndex == 3 && e.RowIndex != -1)
+            if (e.ColumnIndex == 4 && e.RowIndex != -1)
             {
 
                 if (MessageBox.Show("¿Esta seguro que desea eliminar este producto?", "ALERTA", MessageBoxButtons.YesNo) == DialogResult.Yes)
@@ -111,7 +113,7 @@ namespace sin_dolor
                     dgvInventario.Rows.RemoveAt(e.RowIndex);
                 }
             }
-            if (e.ColumnIndex == 4 && e.RowIndex != -1)
+            if (e.ColumnIndex == 3 && e.RowIndex != -1)
             {
                 Inventario.Frm_modificar_inv.codigo = dgvInventario[5, e.RowIndex].Value.ToString();
                 new Inventario.Frm_modificar_inv().ShowDialog();
